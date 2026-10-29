@@ -27,7 +27,7 @@ The Arduino sets a digital pin as an output and alternates its state between HIG
 2. Connect the LED's cathode to GND.
 3. Open the Arduino IDE.
 4. Upload the LED blinking program to the Arduino board.
-5. Observe the LED blinking at regular intervals.
+5. Observe the LED blinking at regular intervals
 
 ## 🎯 Learning Outcomes
 - Understanding Arduino digital output pins.
